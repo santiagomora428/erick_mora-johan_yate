@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+"ingrese sus dos numeros a sumar"
+5
+1
+10
+num1, num2
+7
+0
+1
+14
+(num1 mod 2)=0
+4
+1
+28
+"su primer numero no es par"
+13
+7
+0
+1
+6
+num1>0
+4
+1
+33
+"su primer numero no es positivo"
+13
+7
+0
+1
+14
+(num2 mod 2)=0
+4
+1
+29
+"su segundo numero no es par"
+13
+7
+0
+1
+6
+num2>0
+4
+1
+34
+"su segundo numero no es positivo"
+13
+4
+1
+44
+"la suma de sus dos numeros es: ", num1+num2
+13
+13
+13
+13
+1
